@@ -974,7 +974,23 @@ def get_questions():
                 "h. Not aware (You are completely not aware of any of the above)"
             ],
             "5.4 Testing of milk": [
-                "a. Dairy partner is outsourcing testing"
+                "a. Dairy partner is outsourcing testing",
+                "b. Dairy partner has well defined SOPs, mechanisms  and in-house capability to diagnose root cause of  issues and action to resolve the issues",
+                "c. Dairy partner has in-house experienced and  qualified team to diagnose issue and respond  within 48 hours",
+                "d. Dairy partner has in-house best in class testing  equipment’s that test for all the parameters that  ascertain quality milk",
+                "e. Dairy partner has made provision for doorstep  testing facility at an affordable price to 80% of  farmers to test quality of the milk at farm level",
+                "f. Dairy farm has in-house latest testing equipment  for testing all parameters that ascertain quality of  milk. Testing of milk and samples can be tracked  down till individual animal level in a herd",
+                "g. None of the above (In case your response is none  of the above, please mention what best suits your  milk shed)",
+                "h. Not aware (You are completely not aware of any  of the above)",
+            ],
+            "5.5 Root Cause Diagnosis": [
+                "a. Dairy partners have mechanisms to diagnose the  root cause of issues",
+                "b. Dairy partners have mechanisms and standard  operating processes in place to diagnose the root  cause of issues and detailed action plans to resolve the issues",
+                "c. Dairy partners have access to outside facilities to  test for factors affecting milk quality",
+                "d. Dairy partner has in-house testing facility that test  for parameters that ascertains milk quality",
+                "e. Dairy partner has in-house testing facility that test  for parameters that ascertains milk quality and  implement detailed action plans to resolve the  issues",
+                "f. None of the above (In case your response is none  of the above, please mention what best suits your  milk shed)",
+                "g. Not aware (You are completely not aware of any  of the above)"
             ]
         }
     }
