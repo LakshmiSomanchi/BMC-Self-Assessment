@@ -128,7 +128,8 @@ def get_questions():
                         "c. 100% dairy farmers can diagnose mastitis and the of them 80% of large farms (herd size>10) perform the California Mastitis Test (CMT)",
                         "d. 100% large dairy farmers (herd size >10) have access to affordable testing of CMT across all cattle on a day to day basis",
                         "e. California Mastitis Test (CMT) done for 100% cattle for 100% milk produced every day",
-                        "f. None of the above (In case your response is none of the above, please mention what best suits your milk shed)"
+                        "f. None of the above (In case your response is none of the above, please mention what best suits your milk shed)",
+                        "g. Not aware (Dairy farmers in your milk shed are completely not aware of any of the above)"
                     ],
                     "1.1.2.3 Access to diagnostic services": [
                         "a. 40% of dairy farmers are aware of actions to be taken up immediately post-diagnosis like getting in touch with a Veterinarian and starting appropriate treatment protocol, taking the animal to a diagnostic facility etc.",
@@ -172,10 +173,9 @@ def get_questions():
                         "a. 100% dairy farmers have awareness and knowledge regarding isolation of sick animals to prevent disease and fast-track treatment of sick animals.60% of farmers practice isolation of 50% of sick animals from healthy animals immediately post diagnosis of disease",
                         "b. 80% dairy farmers practice isolation of 50% of sick animals from healthy animals immediately post diagnosis of disease and for the entire duration of treatment",
                         "c. 100% of dairy farmers practice isolation of 100% of sick animals from healthy animals immediately post diagnosis of disease and for the entire duration of treatment",
-                        "d. 100% of dairy farmers practice isolation of 100% of sick animals from healthy animals immediately post diagnosis of disease and for the entire duration of treatment",
-                        "e. Provision for immediate Isolation of 100% of sick animals in a designated shed that are designed for better care and recovery of animals",
-                        "f. None of the above (In case your response is none of the above, please mention what best suits your milk shed)",
-                        "g. Not aware (Dairy farmers in your milk shed are completely not aware of any of the above)"
+                        "d. Provision for immediate Isolation of 100% of sick animals in a designated shed that are designed for better care and recovery of animals",
+                        "e. None of the above (In case your response is none of the above, please mention what best suits your milk shed)",
+                        "f. Not aware (Dairy farmers in your milk shed are completely not aware of any of the above)"
                     ],
                     "1.1.3.5 Knowledge of pharmacological data and requirements": [
                         "a. Paraveterinarian have acceptable knowledge of requirements associated with antimicrobial use, permitable residual levels",
@@ -221,10 +221,9 @@ def get_questions():
                         "a. 60% of the dairy farmers are aware and have sufficient knowledge of Ration balancing of cattle based on their needs (growth/maintenance/milk production) and physiological stage",
                         "b. 80% of dairy farmers provide ration balanced feed to all cattle based on their stage and need",
                         "c. 100% dairy farmers provide ration balanced feed to all cattle based on their stage and need",
-                        "d. 100% dairy farmers provide ration balanced feed to all cattle based on their stage and need",
-                        "e. 100% of herd provided with ration balanced feed based on their physiological stage and linked to the specific need",
-                        "f. None of the above (In case your response is none of the above, please mention what best suits your milk shed)",
-                        "g. Not aware (Dairy farmers in your milk shed are completely not aware of any of the above)"
+                        "d. 100% of herd provided with ration balanced feed based on their physiological stage and linked to the specific need",
+                        "e. None of the above (In case your response is none of the above, please mention what best suits your milk shed)",
+                        "f. Not aware (Dairy farmers in your milk shed are completely not aware of any of the above)"
                     ],
                     "1.2.1.2 Access to clean drinking water": [
                         "a. 100% of dairy farmers are aware of the need to provide unlimited water to the cattle throughout the day",
